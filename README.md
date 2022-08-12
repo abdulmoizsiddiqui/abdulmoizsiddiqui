@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @abdulmoizsiddiqui
+- 👀 I’m interested in Data Science and Solutions Architect
+- 🌱 I’m currently on an adventurous journey - 100 days of Python Code Challeneges straight!
+- 💞️ I’m looking to collaborate on multiple Python projects [Full-Stack Development]
+- 📫 React me on LinkedIn: https://www.linkedin.com/in/abdulmoizsiddiqui/
